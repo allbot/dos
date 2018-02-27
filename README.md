@@ -1,2 +1,2 @@
-# os
-The Operating System for Quarkonium
+# Operating System
+`A Quarkonium OS`
