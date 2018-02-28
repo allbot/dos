@@ -1,2 +1,2 @@
 # Allbot OS
-`A Quarkonium Internet OS`
+`A Quarkonium OS`
