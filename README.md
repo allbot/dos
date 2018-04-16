@@ -1,2 +1,2 @@
-# Allbot OS
-`A Quarkonium OS`
+# Allbot Dos
+`An Operating System`
